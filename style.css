@@ -136,7 +136,7 @@ input{
     background-color: antiquewhite;
     text-align: center;
     padding: 110px;
-    margin-bottom: 70px;
+    margin: 70px 0px;
 }
 .comments{
     display: flex;
